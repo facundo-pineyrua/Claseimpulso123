@@ -1,2 +1,2 @@
 # Claseimpulso123
-Descripción
+https://teachablemachine.withgoogle.com/models/WjxSy8J_4/
